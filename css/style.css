@@ -5797,42 +5797,5 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
-html {
-  height: 100%; }
-  html body {
-    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    background-image: url("../img/motor.jpg");
-    background-repeat: no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    height: 100%; }
-
-.principale {
-  display: flex;
-  align-items: center;
-  height: 100%; }
-  .principale .maintenance {
-    padding: 20px;
-    background-color: white; }
-    .principale .maintenance header {
-      text-align: center; }
-      .principale .maintenance header .logo {
-        max-width: 120px; }
-      .principale .maintenance header h1 {
-        margin-bottom: 40px;
-        font-family: inherit;
-        font-size: 34px;
-        width: auto;
-        color: #4A4A4A; }
-    .principale .maintenance address ul {
-      text-align: left; }
-      .principale .maintenance address ul li {
-        list-style: none;
-        margin-top: 10px; }
-        .principale .maintenance address ul li i {
-          width: 15px;
-          margin-right: 5px; }
 
 /*# sourceMappingURL=style.css.map */
