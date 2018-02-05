@@ -8,11 +8,15 @@
 // Bootstrap
 @import "bootstrap";
 
-//Mixin's
+// Mixin's
 @import "mixins";
 
-//Typo's
+// Typo's
 @import "typographie";
+
+// Reset Bootstrap sass
+@import "reset_bootstrap_sass";
+
 
 //------------------
 //IMPORT COMPONENTS
@@ -45,3 +49,4 @@
 
 // Banner
 @import "layout/banner";
+
