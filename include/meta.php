@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
@@ -15,13 +13,3 @@
 
 
 </head>
-<body>
-
-  <p>lkdsjflkdsjflksdjfmldsf</p>
-  <h2>Roboto Light</h2>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src="javascript/bootstrap-sprockets.js"></script>
-<script src="javascript/bootstrap.js"></script>
-</body>
-</html>
